@@ -8,7 +8,7 @@ Open the included offline.html in a modern browser, even without an internet con
 
 ## Edit the React project
 
-Install Node.js 20 or later. The build also uses the zip command available on macOS and Linux (and on Windows via WSL).
+Install Node.js 20 or later.
 
     npm ci
     npm test
